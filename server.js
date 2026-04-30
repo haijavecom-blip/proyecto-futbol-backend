@@ -1,3 +1,4 @@
+import fetch from "node-fetch";
 import express from "express";
 import OpenAI from "openai";
 import cors from "cors";
